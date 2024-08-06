@@ -116,9 +116,13 @@ pip install -r requirements.txt
 python setup.py install
 ```
 Project Artifacts
-High Level Design (HLD): HLD_CreditCardDefaultDetection.pdf
-Low Level Design (LLD): LLD_CreditCardDefaultDetection.pdf
-Architecture Design: Architechture_CreditCardDefaultDetection.pdf
-Wireframe Document: Wireframe_CreditCardDefaultDetection.pdf
-Detailed Project Report (DPR): DPR_CreditCardDefaultDetection.pdf
+High Level Design (HLD): https://drive.google.com/drive/u/1/my-drive
+
+Low Level Design (LLD):https://drive.google.com/drive/u/1/my-drive
+
+Architecture Design:[ Architechture_CreditCardDefaultDetection.pdf](https://drive.google.com/drive/u/1/my-drive)
+
+Wireframe Document:[ Wireframe_CreditCardDefaultDetection.pdf](https://drive.google.com/drive/u/1/my-drive)
+
+Detailed Project Report (DPR): [DPR_CreditCardDefaultDetection.pdf](https://docs.google.com/presentation/u/1/d/1_aehQQgb1336n_co7LhvQwut0nv41qg-/edit?usp=drive_web&ouid=103039820815364966182&rtpof=true)
 
