@@ -53,13 +53,7 @@ The XGBClassifier model emerged as the most effective have below metric scores:
 * HUGGINGFACE: https://huggingface.co/spaces/abhijitpaul/Credit-Card-Default-Detection
 * AWS: https://5hniewmhgh.us-east-1.awsapprunner.com/
 
-## Project Artifacts
-1. High Level Design (HLD): [HLD_CreditCardDefaultDetection.pdf](https://drive.google.com/file/d/10OCGzx_PPRrzk0ZGTjAu-N-3M30baJbr/view?usp=sharing)
-2. Low Level Design (LLD): [LLD_CreditCardDefaultDetection.pdf](https://drive.google.com/file/d/1i7ZKx161WQdlWNsOhWOK2Nr4DkSG7mIV/view?usp=sharing)
-3. Architecture Design: [Architechture_CreditCardDefaultDetection.pdf](https://drive.google.com/file/d/11ZwHiFd5yPq4XG6MASN9GLnAVc4DwWeQ/view?usp=sharing)
-4. Wireframe Document: [Wireframe_CreditCardDefaultDetection.pdf](https://drive.google.com/file/d/1f4dd32-QLc6mEmI-LOpKGNpsZpF0nbJ9/view?usp=sharing)
-5. Detailed Project Report (DPR): [DPR_CreditCardDefaultDetection.pdf](https://docs.google.com/presentation/d/1mIkaHOO4tTHoA7D1-tLJUH5X57f642ht/edit?usp=sharing&ouid=113072205406904395232&rtpof=true&sd=true)
-6. Project Demo Video: [https://youtu.be/8lv5jNUXcKQ?si=Ff1MIxzQMp9MBvj1](https://youtu.be/kH6FAdevtmw)
+
 
 ## Snaptshot of HuggingFace Dashboard
 ![CreditCardDefaultDetectionDashboard](https://github.com/abhijitpaul0212/Credit-Card-Default-Detection/assets/9966441/da9c2642-6a99-47bf-b517-55ea505eb588)
@@ -115,7 +109,7 @@ pip install -r requirements.txt
 # Install project  as package
 python setup.py install
 ```
-Project Artifacts
+* Project Artifacts
 High Level Design (HLD): https://drive.google.com/drive/u/1/my-drive
 
 Low Level Design (LLD):https://drive.google.com/drive/u/1/my-drive
