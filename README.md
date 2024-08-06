@@ -1,16 +1,4 @@
-# Credit-Card-Default-Detection
----
-license: mit
-title: Credit Card Defaults Prediction
-sdk: streamlit
-emoji: 🦀
-colorFrom: green
-colorTo: indigo
-app_file: streamlit_app.py
-pinned: false
----
 
-# Credit Card Default Detection
 
 ## Objective
 This project focuses on building a credit card fault detection model using machine learning techniques. The model aims to predict default payments based on various demographic and credit-related features.
