@@ -115,3 +115,10 @@ pip install -r requirements.txt
 # Install project  as package
 python setup.py install
 ```
+Project Artifacts
+High Level Design (HLD): HLD_CreditCardDefaultDetection.pdf
+Low Level Design (LLD): LLD_CreditCardDefaultDetection.pdf
+Architecture Design: Architechture_CreditCardDefaultDetection.pdf
+Wireframe Document: Wireframe_CreditCardDefaultDetection.pdf
+Detailed Project Report (DPR): DPR_CreditCardDefaultDetection.pdf
+Project Demo Video: https://youtu.be/8lv5jNUXcKQ?si=Ff1MIxzQMp9MBvj1
