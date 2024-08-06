@@ -109,7 +109,9 @@ pip install -r requirements.txt
 # Install project  as package
 python setup.py install
 ```
-* Project Artifacts
+
+Project Artifacts
+
 High Level Design (HLD): https://drive.google.com/drive/u/1/my-drive
 
 Low Level Design (LLD):https://drive.google.com/drive/u/1/my-drive
