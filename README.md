@@ -64,15 +64,6 @@ The XGBClassifier model emerged as the most effective have below metric scores:
 ## Snaptshot of HuggingFace Dashboard
 ![CreditCardDefaultDetectionDashboard](https://github.com/abhijitpaul0212/Credit-Card-Default-Detection/assets/9966441/da9c2642-6a99-47bf-b517-55ea505eb588)
 
-## MLOps
-* MLFlow - To track experiments, model verioning and reprodicibility
-* DagsHub - Integrated & hosted tool for MLOps [Click here](https://dagshub.com/abhijitpaul0212/Credit-Card-Default-Detection/experiments/)
-
-![Experiment Tracking](https://github.com/abhijitpaul0212/Credit-Card-Default-Detection/assets/9966441/7669600e-1a17-4387-9e25-c3e872edf723)
-
-## Contributors
-* Abhijit Paul
-* Gouthami K
 
 ## License
 This project is licensed under the MIT License.
