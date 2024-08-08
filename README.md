@@ -112,13 +112,13 @@ python setup.py install
 
 Project Artifacts
 
-High Level Design (HLD): https://drive.google.com/drive/u/1/my-drive
+High Level Design (HLD): https://drive.google.com/file/d/19kHAAyvDZM_-322g4GLwlHcgQmmDILOP/view?usp=drive_link
 
-Low Level Design (LLD):https://drive.google.com/drive/u/1/my-drive
+Low Level Design (LLD): https://drive.google.com/file/d/1SuSdbXG7ZaIKve7MQP_Z5SEKq_yOUJYE/view?usp=drive_link
 
-Architecture Design:[ Architechture_CreditCardDefaultDetection.pdf](https://drive.google.com/drive/u/1/my-drive)
+Architecture Design: https://drive.google.com/file/d/1UALMTD50aVB7Q2b8qY8p-8Atk8w2rba6/view?usp=drive_link
 
-Wireframe Document:[ Wireframe_CreditCardDefaultDetection.pdf](https://drive.google.com/drive/u/1/my-drive)
+Wireframe Document: https://drive.google.com/file/d/1JC5A-OJ-NFZPt9YNkiBYaAF1pqA9BGsQ/view?usp=drive_link
 
-Detailed Project Report (DPR): [DPR_CreditCardDefaultDetection.pdf](https://docs.google.com/presentation/u/1/d/1_aehQQgb1336n_co7LhvQwut0nv41qg-/edit?usp=drive_web&ouid=103039820815364966182&rtpof=true)
+Detailed Project Report (DPR): https://drive.google.com/file/d/1gFCo6SCxXEVVSmcn-DHb51_9osoPmwUJ/view?usp=drive_link
 
